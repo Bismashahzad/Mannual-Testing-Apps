@@ -1,0 +1,22 @@
+QR Code Reader - Defect Testing
+This repository is dedicated to tracking defects and issues found in the QR Code Reader app (also known as PerfectX). As part of the testing process, an Excel sheet containing detailed defect reports is uploaded for transparency and review.
+
+Excel Defect Report
+The Excel file uploaded in this repository contains comprehensive details on the defects identified during the testing of the app. This includes:
+
+Defect Numbers: Unique identifiers for each defect.
+Fragment Name: The specific part of the app where the defect was found.
+Steps to Reproduce: A detailed set of instructions to reproduce the defect.
+Actual Result: What happened when following the steps.
+Expected Result: The expected outcome if the app functions correctly.
+Issue Type: Categorization of the defect (e.g., Functional Issue, Usability Issue).
+Screenshots/Videos: Links to visual evidence (e.g., screenshots or screen recordings).
+Device and Status: Device used for testing and the current status of the issue (e.g., Fail, In Progress).
+Steps for Viewing the Defect Report
+Navigate to the 'Defect_Report.xlsx' file in the repository.
+Download and open the file to see the complete list of defects.
+Contribution
+If you are a developer or tester, please feel free to review the defects and contribute fixes. Pull requests for bug fixes are welcomed.
+If you encounter additional defects or issues, please report them by opening a new issue in this repository.
+Files Included
+Defect_Report.xlsx: Contains the list of defects, steps, and media (screenshot/video) links for each issue.
