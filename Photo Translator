@@ -1,0 +1,17 @@
+Testing Report - App Functionality and Issues
+This repository contains a detailed testing report of various app functionalities. The report highlights functional issues, ad-related issues, and features that were not working as expected across multiple fragments within the app. Each entry includes steps to reproduce the issue, actual and expected results, status, device details, and screenshots for reference.
+
+Table of Contents
+Fragment Name
+Steps
+Actual Result
+Expected Result
+Issue Type
+Screenshot
+Device
+Status
+Remote Config
+How to Use This Report
+Review the table of contents to navigate to specific issues.
+Each entry represents a test case with the issue description, steps, expected and actual results, and additional media links for troubleshooting.
+Use the screenshots and videos linked in the "Screenshot" and "Video" sections to analyze the issues in more detail.
